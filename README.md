@@ -5,7 +5,7 @@ Preview LeccaPos App
 Ada tiga tampilan utama di aplikasi ini:
 
 1. **Tampilan Kasir**:
-   ![Tampilan Kasir](./images/tampilan_kasir.png)
+   ![Tampilan Kasir](./WhatsApp Image 2024-09-09 at 00.30.20.jpeg)
 
 2. **Tampilan Login**:
    ![Tampilan Login](./images/tampilan_login.png)
